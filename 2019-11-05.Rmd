@@ -1,0 +1,23 @@
+---
+title: "class-11-05"
+author: "Mengxi Tan"
+date: "11/5/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(infer)
+library(moderndive)
+library(tidyverse)
+```
+
+
+
+```{r class}
+#UT database for course evaluation
+evals
+
+```
+
